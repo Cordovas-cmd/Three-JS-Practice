@@ -1,0 +1,23 @@
+{
+  "name": "Three-JS-Practice",
+  "version": "1.0.0",
+  "description": "Messing around with Three JS to get the hang of it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cordovas-cmd/Three-JS-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cordovas-cmd/Three-JS-Practice/issues"
+  },
+  "homepage": "https://github.com/Cordovas-cmd/Three-JS-Practice#readme",
+  "dependencies": {
+    "three": "^0.133.1"
+  }
+}
